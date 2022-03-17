@@ -1,25 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import './styles/app.css';
+import React from 'react';
+import Navigation from "./Components/NavBar";
+import BioCard from "./Components/AboutCard";
+import CourseCard from "./Components/Courses";
+import TechCard from "./Components/Technologies";
+import ExpCard from "./Components/Experience";
+import ProjCard from "./Components/Projects";
+import Footer from "./Components/Footer"
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+export function App() {
+    return(
+        <div id='appWrap'>
+            <Navigation/>
+            <div id="viewWrap">
+                <BioCard/>
+                <CourseCard/>
+                <TechCard/>
+                <ExpCard/>
+                <ProjCard/>
+            </div>
+               <Footer/>
+        </div>
+    );
 }
-
-export default App;
