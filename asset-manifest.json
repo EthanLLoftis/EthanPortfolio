@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/EthanPortfolio/public/index.html/static/css/main.909bb0be.chunk.css",
-    "main.js": "/EthanPortfolio/public/index.html/static/js/main.6ccf9310.chunk.js",
-    "main.js.map": "/EthanPortfolio/public/index.html/static/js/main.6ccf9310.chunk.js.map",
-    "runtime-main.js": "/EthanPortfolio/public/index.html/static/js/runtime-main.c9852467.js",
-    "runtime-main.js.map": "/EthanPortfolio/public/index.html/static/js/runtime-main.c9852467.js.map",
-    "static/js/2.6e184c8f.chunk.js": "/EthanPortfolio/public/index.html/static/js/2.6e184c8f.chunk.js",
-    "static/js/2.6e184c8f.chunk.js.map": "/EthanPortfolio/public/index.html/static/js/2.6e184c8f.chunk.js.map",
-    "static/js/3.929f06fa.chunk.js": "/EthanPortfolio/public/index.html/static/js/3.929f06fa.chunk.js",
-    "static/js/3.929f06fa.chunk.js.map": "/EthanPortfolio/public/index.html/static/js/3.929f06fa.chunk.js.map",
-    "index.html": "/EthanPortfolio/public/index.html/index.html",
-    "static/css/main.909bb0be.chunk.css.map": "/EthanPortfolio/public/index.html/static/css/main.909bb0be.chunk.css.map",
-    "static/js/2.6e184c8f.chunk.js.LICENSE.txt": "/EthanPortfolio/public/index.html/static/js/2.6e184c8f.chunk.js.LICENSE.txt",
-    "static/media/Bio.f78e962a.JPG": "/EthanPortfolio/public/index.html/static/media/Bio.f78e962a.JPG",
-    "static/media/app.css": "/EthanPortfolio/public/index.html/static/media/pexels-eberhard-grossgasteiger-1428277.09f23a41.jpg"
+    "main.css": "/EthanPortfolio/static/css/main.f218b82c.chunk.css",
+    "main.js": "/EthanPortfolio/static/js/main.6ccf9310.chunk.js",
+    "main.js.map": "/EthanPortfolio/static/js/main.6ccf9310.chunk.js.map",
+    "runtime-main.js": "/EthanPortfolio/static/js/runtime-main.e007adc5.js",
+    "runtime-main.js.map": "/EthanPortfolio/static/js/runtime-main.e007adc5.js.map",
+    "static/js/2.6e184c8f.chunk.js": "/EthanPortfolio/static/js/2.6e184c8f.chunk.js",
+    "static/js/2.6e184c8f.chunk.js.map": "/EthanPortfolio/static/js/2.6e184c8f.chunk.js.map",
+    "static/js/3.929f06fa.chunk.js": "/EthanPortfolio/static/js/3.929f06fa.chunk.js",
+    "static/js/3.929f06fa.chunk.js.map": "/EthanPortfolio/static/js/3.929f06fa.chunk.js.map",
+    "index.html": "/EthanPortfolio/index.html",
+    "static/css/main.f218b82c.chunk.css.map": "/EthanPortfolio/static/css/main.f218b82c.chunk.css.map",
+    "static/js/2.6e184c8f.chunk.js.LICENSE.txt": "/EthanPortfolio/static/js/2.6e184c8f.chunk.js.LICENSE.txt",
+    "static/media/Bio.f78e962a.JPG": "/EthanPortfolio/static/media/Bio.f78e962a.JPG",
+    "static/media/app.css": "/EthanPortfolio/static/media/pexels-eberhard-grossgasteiger-1428277.09f23a41.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9852467.js",
+    "static/js/runtime-main.e007adc5.js",
     "static/js/2.6e184c8f.chunk.js",
-    "static/css/main.909bb0be.chunk.css",
+    "static/css/main.f218b82c.chunk.css",
     "static/js/main.6ccf9310.chunk.js"
   ]
 }
